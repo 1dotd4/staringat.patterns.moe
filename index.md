@@ -1,0 +1,3 @@
+% Staring at patterns
+
+Coming soon...
