@@ -1,4 +1,4 @@
-% Staring at patterns
+% <a href="/">Staring at patterns</a>
 
 We are now starting with a simple list of books suggestions.
 
@@ -20,6 +20,7 @@ We are now starting with a simple list of books suggestions.
 
 ### Number Theory
 - 9780387745275 - L. N. Childs - A Concrete Introduction To Higher Algebra
+- 9780321816191 - J. H. Silverman - A Friendly Introduction to Number Theory
 - 9783319902326 - Daniel A. Marcus - Number fields
 - 9783642084737 - Neukirch - Algebraic Number Theory
 - 9780387094939 - Silverman - Arithematic of Elliptic Curves
