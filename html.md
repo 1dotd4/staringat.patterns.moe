@@ -47,3 +47,7 @@ import secret
 print("this is a " + secrete)
 ```
 
+### Spoilers?
+
+>! This is a spoiler on some platforms
+
