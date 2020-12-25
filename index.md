@@ -1,6 +1,6 @@
 % <a href="/">Staring at patterns</a>
 
-Random books, just stare at them.
+Random books. Cool patterns. We are stare at them until we find a solution.
 
 ### Cryptography
 - 9781493917105 - J. Hoffstein, J. Pipher, J. H. Silverman - _An Introduction to Mathematical Cryptography_
@@ -12,8 +12,9 @@ Random books, just stare at them.
 - Declassified documents (NSA) - _Military Cryptanalysis_ (4 volumes)
 - Declassified documents (NSA) - _Elements of cryptanalysis_
 - [Dan Boneh and Victor Shoup - _A Graduate Course in Applied Cryptography_](https://toc.cryptobook.us/)
+- [Mike Rosulek - _The Joy of Cryptography_](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
 - [Alfred J. Menezes, Paul C. van Oorschot, Scott A. Vanstone - _the Handbook of Applied Cryptography_](http://cacr.uwaterloo.ca/hac/)
-- [cryptologia](ftp.math.utah.edu/pub/tex/bib/toc/cryptologia.html)
+- [Cryptologia](http://ftp.math.utah.edu/pub/tex/bib/toc/cryptologia.html)
 
 ### Algebra
 - 9780486471891 - Nathan Jacobson - _Basic Algebra 1_
@@ -33,7 +34,7 @@ Random books, just stare at them.
 
 ### Number Theory
 - 9780387745275 - L. N. Childs - _A Concrete Introduction To Higher Algebra_
-- 9780321816191 - J. H. Silverman - _A Friendly Introduction to Number Theory__
+- 9780321816191 - J. H. Silverman - _A Friendly Introduction to Number Theory_
 - 9783319902326 - Daniel A. Marcus - _Number fields_
 - 9783642084737 - Neukirch - _Algebraic Number Theory_
 - 9780387094939 - Silverman - _Arithematic of Elliptic Curves_
