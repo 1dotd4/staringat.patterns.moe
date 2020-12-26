@@ -1,5 +1,24 @@
 % <a href="/">Staring at patterns</a>
 
+- Simple substitutions ciphers (Caesar, Vigenere, ..., Sarah2, ..., Enigma, ...)
+- Basic Algebra (groups, rings, fields)
+- Primality and factorizaiton
+- Number Theory topics
+- Stream ciphers and randomness (RC4, ..., LFSR, ..., Mersenne Twister, ...)
+- Block ciphers (AES, ..., modes)
+- RSA (basics, padding, ..., attacks and mitigations)
+- Diffie-Hellman (basics, ElGamal, ..., attacks and mitigations)
+- Hash (colliisons, meet-in-the-middle, ...)
+- Elliptic and Hyperelliptic Curves
+- Lattice based cryptography
+- LLL cryptanalysis
+- Optimizations problems
+- Signatures
+- Zero Knowledge Proof
+- ...to sort better
+
+## References
+
 Random books. Cool patterns. We are stare at them until we find a solution.
 
 ### Cryptography
@@ -14,7 +33,8 @@ Random books. Cool patterns. We are stare at them until we find a solution.
 - [Dan Boneh and Victor Shoup - _A Graduate Course in Applied Cryptography_](https://toc.cryptobook.us/)
 - [Mike Rosulek - _The Joy of Cryptography_](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
 - [Alfred J. Menezes, Paul C. van Oorschot, Scott A. Vanstone - _the Handbook of Applied Cryptography_](http://cacr.uwaterloo.ca/hac/)
-- [Cryptologia](http://ftp.math.utah.edu/pub/tex/bib/toc/cryptologia.html)
+- [_Cryptologia_](http://ftp.math.utah.edu/pub/tex/bib/toc/cryptologia.html)
+- [_Zero-knowledge proof_](https://zpk.science)
 
 ### Algebra
 - 9780486471891 - Nathan Jacobson - _Basic Algebra 1_
