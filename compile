@@ -1,5 +1,5 @@
 # mkdir -p build
-echo -e "\# [Staring at patterns](/)'s site map\n\n" > sitemap.md
+echo -e "% Sitemap\n# [Staring at patterns](/)'s site map\n\n" > sitemap.md
 for i in $(ls *.md | grep -v 'sitemap.md' | awk -F'.' '{ print $1 }'); do
   echo -e "- [$i](/$i)\n" >> sitemap.md
 done
