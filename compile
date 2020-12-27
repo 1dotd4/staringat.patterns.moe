@@ -1,7 +1,13 @@
 # mkdir -p build
+echo "\# [Staring at patterns](/)'s site map" > sitemap.md
+for i in $(ls *.md | grep -v 'sitemap.md' | awk -F'.' '{ print $1 }'); do
+  echo "- [$i](/$i)" >> sitemap.md
+done
+
 for i in $(ls *.md | awk -F'.' '{ print $1 }'); do
   pandoc -s $i.md -c moe.css \
   --template template.html --toc \
   --toc-depth=2 --highlight-style=haddock \
   -o $i.html
 done
+
