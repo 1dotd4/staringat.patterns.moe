@@ -1,5 +1,9 @@
 % <a href="/">Staring at patterns</a>
 
+Did you know that staring enough on an image you will find patters? This apply to problems too (if correctly rappresented) and it's very useful in cryptography too.
+
+This is an experiment, ask d4 somewhere.
+
 - Simple substitutions ciphers (Caesar, Vigenere, ..., Sarah2, ..., Enigma, ...)
 - Basic Algebra (groups, rings, fields)
 - Primality and factorizaiton
