@@ -4,19 +4,27 @@ Did you know that staring enough on an image you will find patters? This apply t
 
 This is an experiment, ask d4 somewhere.
 
-- [FAQ](/faq.html)
-- Discrete matematics, combinatorics, graph theory and probability
-- Computational complexity, (automata theory?)
-- Information theory
-- Number theory
-- Abstract Algebra
-- Applied cryptography
-- About machines, languages, (de)compilers
+- Simple substitutions ciphers (Caesar, Vigenere, ..., Sarah2, ..., Enigma, ...)
+- Basic Algebra (groups, rings, fields)
+- Primality and factorizaiton
+- Number Theory topics
+- Stream ciphers and randomness (RC4, ..., LFSR, ..., Mersenne Twister, ...)
+- Block ciphers (AES, ..., modes)
+- RSA (basics, padding, ..., attacks and mitigations)
+- Diffie-Hellman (basics, ElGamal, ..., attacks and mitigations)
+- Hash (colliisons, meet-in-the-middle, ...)
+- Elliptic and Hyperelliptic Curves
+- Lattice based cryptography
+- LLL cryptanalysis
+- Optimizations problems
+- Signatures
+- Zero Knowledge Proof
+- ...to sort better
 - [sitemap](/sitemap.html)
 
 ## References
 
-Random books. Cool patterns. We are staring at them until we find a solution.
+Random books. Cool patterns. We are stare at them until we find a solution.
 
 ### Cryptography
 - 9781493917105 - J. Hoffstein, J. Pipher, J. H. Silverman - _An Introduction to Mathematical Cryptography_
