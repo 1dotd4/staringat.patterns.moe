@@ -30,10 +30,10 @@ Random books. Cool patterns. We are stare at them until we find a solution.
 - 9781493917105 - J. Hoffstein, J. Pipher, J. H. Silverman - _An Introduction to Mathematical Cryptography_
 - 9780387942933 - N. Koblitz - _A Course in Number Theory and Cryptography_
 - 9781584885085 - D. R. Stinson - _Cryptography: Theory and Practice_
-- 9780470114865 - M. Stamp, R. M. Low - Applied Cryptanalysis: Breaking Ciphers in the Real World
-- 9780486200972 - H. F. Gaines - Cryptanalysis: A Study of Ciphers and Their Solution
-- Riverbank laboratories - Method for the solution of ciphers
-- Declassified documents (NSA) - _Military Cryptanalysis_ (4 volumes)
+- 9780470114865 - M. Stamp, R. M. Low - _Applied Cryptanalysis: Breaking Ciphers in the Real World_
+- 9780486200972 - H. F. Gaines - _Cryptanalysis: A Study of Ciphers and Their Solution_
+- Riverbank laboratories - _Method for the solution of ciphers_
+- [Declassified documents (NSA) - _Military Cryptanalysis_ (4 volumes)](https://www.nsa.gov/news-features/declassified-documents/military-cryptanalysis/)
 - Declassified documents (NSA) - _Elements of cryptanalysis_
 - [Dan Boneh and Victor Shoup - _A Graduate Course in Applied Cryptography_](https://toc.cryptobook.us/)
 - [Mike Rosulek - _The Joy of Cryptography_](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
