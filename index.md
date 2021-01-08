@@ -1,8 +1,10 @@
 % <a href="/">Staring at patterns</a>
 
-Did you know that staring enough on an image you will find patters? This apply to problems too (if correctly rappresented) and it's very useful in cryptography too.
+Did you know that staring enough on an image you will recognize patters?
 
-This is an experiment, ask d4 somewhere.
+This apply to problems too — if correctly represented — and it’s very useful in cryptography too.
+
+This is an experiment, you may find more info in the FAQ.
 
 - [FAQ](/faq.html)
 - Discrete matematics, combinatorics, graph theory and probability
