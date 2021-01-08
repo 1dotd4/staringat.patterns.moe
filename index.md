@@ -1,4 +1,4 @@
-% <a href="/">Staring at patterns</a>
+% <a href="/">Staring at patterns [WIP]</a>
 
 Did you know that staring enough on an image you will recognize patters?
 
