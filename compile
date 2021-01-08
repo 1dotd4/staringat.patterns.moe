@@ -8,6 +8,7 @@ for i in $(ls *.md | awk -F'.' '{ print $1 }'); do
   pandoc -s $i.md -c moe.css \
   --template template.html --toc \
   --toc-depth=2 --highlight-style=haddock \
+  --mathjax \
   -o $i.html
 done
 
