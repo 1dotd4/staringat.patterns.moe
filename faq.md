@@ -8,7 +8,7 @@ This is an experiment to bring order and clarity among some patterns in cryptogr
 
 We find a good definition of pattern the following:
 
-> A pattern is a recurrent movement in structures, where a structure is a configuration or an arrangement of elements which — structure — we can recognize and manipulate with a pattern.
+> A pattern is a recurrent movement in structures, where a structure is a configuration or an arrangement of elements that — structure — we can recognize and manipulate with a pattern.
 
 # Why stare at them?
 
