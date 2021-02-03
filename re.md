@@ -31,6 +31,6 @@ Recognize structure, there are many.
 
 Recognize patterns, there are few.
 
-[yurichev's guides on reverse engineering and SAT/SMT solvers](https://beginners.re/)
-[REal0day's resources](https://www.real0day.com/resources)
+- [yurichev's guides on reverse engineering and SAT/SMT solvers](https://beginners.re/)
+- [REal0day's resources](https://www.real0day.com/resources)
 
