@@ -22,6 +22,7 @@ Tips:
 - try reproducing simple applications
 - learn the main paradigms not many languages
 - python3/sagemath is fine
+- [Rosetta code](https://rosettacode.org/wiki/Rosetta_Code)
 
 ## Assembly and reversing
 
@@ -34,3 +35,6 @@ Recognize patterns, there are few.
 - [yurichev's guides on reverse engineering and SAT/SMT solvers](https://beginners.re/)
 - [REal0day's resources](https://www.real0day.com/resources)
 
+## Attacks
+
+- Timing attack
