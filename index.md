@@ -14,5 +14,5 @@ This is an experiment, you may find more info in the FAQ.
 - [Algebra](/algebra.html)
 - [Applied cryptography](/cryptography.html)
 - [About machines and languages](/re.html)
-- [sitemap](/sitemap.html)
+- [Sitemap](/sitemap.html)
 
