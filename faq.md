@@ -20,7 +20,7 @@ You may later tell that you guessed it, but that's what happened in reality.
 
 # How do I contribute?
 
-Get in touch with the community somewhere. We preferred not to tie it to some distinct platform or protocol, in the end there will be some maintainers that will add contributions. You can clone the repository and suggest a patch (git tutorial here).
+Get in touch with the community somewhere. We preferred not to tie it to some distinct platform or protocol, in the end there will be some maintainers that will add contributions. You can clone the repository and suggest a patch. We will post our graph for contributing, until then you can [checkout the gitbook examples on decentalized workflows](https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows).
 
 Usually a new topic can be added by explaining the following points:
 
