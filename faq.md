@@ -23,6 +23,7 @@ You may later tell that you guessed it, but that's what happened in reality.
 Get in touch with the community somewhere. We preferred not to tie it to some distinct platform or protocol, in the end there will be some maintainers that will add contributions. You can clone the repository and suggest a patch (git tutorial here).
 
 Usually a new topic can be added by explaining the following points:
+
 - introduction: outline of the topic;
 - properties: rules, conditions, attacks, edge cases and so on;
 - references: papers, books, links, writeups, examples and so on.
