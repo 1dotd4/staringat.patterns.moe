@@ -13,6 +13,6 @@ This is an experiment, you may find more info in the FAQ.
 - [Number theory](/nt.html)
 - [Algebra](/algebra.html)
 - [Applied cryptography](/cryptography.html)
-- About machines, languages, (de)compilers
+- [About machines and languages](/re.html)
 - [sitemap](/sitemap.html)
 
