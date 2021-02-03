@@ -7,7 +7,7 @@ This apply to problems too — if correctly represented — and it’s very usef
 This is an experiment, you may find more info in the FAQ.
 
 - [FAQ](/faq.html)
-- Discrete matematics, combinatorics, graph theory and probability
+- Discrete mathematics, combinatorics, graph theory and probability
 - Computational complexity, automata theory
 - Information theory
 - [Number theory](/nt.html)
