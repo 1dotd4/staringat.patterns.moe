@@ -1,5 +1,4 @@
-% [Staring at patterns](/)'s site map
-
+# Sitemap
 
 - [algebra](/algebra.html)
 - [cryptography](/cryptography.html)

@@ -1,6 +1,4 @@
-[back](README.md)
-
-## About machines and languages
+# About machines and languages
 
 Computers compute what a programmer programmed.
 
@@ -8,13 +6,13 @@ Sometimes programmers make mistake or computers glitch.
 
 Better know both.
 
-### Scripting
+## Scripting
 
 Learn to use your computer, learn to write scripts, automate stuff.
 
 You don't want to do manually what a computer can do by itself.
 
-### Languages
+## Languages
 
 Tips:
 
@@ -24,7 +22,7 @@ Tips:
 - python3/sagemath is fine
 - [Rosetta code](https://rosettacode.org/wiki/Rosetta_Code)
 
-### Assembly and reversing
+## Assembly and reversing
 
 Learn to read assembly code, learn how it's generated.
 
@@ -35,7 +33,7 @@ Recognize patterns, there are few.
 - [yurichev's guides on reverse engineering and SAT/SMT solvers](https://beginners.re/)
 - [REal0day's resources](https://www.real0day.com/resources)
 
-### Attacks
+## Attacks
 
 - Buffer overflow
 - ...

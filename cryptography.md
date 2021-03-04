@@ -1,4 +1,4 @@
-% <a href="/">Staring at patterns [WIP]</a>
+# Cryptography
 
 ## Private key cryptography
 

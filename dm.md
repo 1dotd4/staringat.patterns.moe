@@ -1,4 +1,4 @@
-[back](README.md)
+# Discrete mathematics, combinatorics, graph theory and probability
 
 ## Discrete mathematics
 

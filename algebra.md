@@ -1,6 +1,6 @@
-[back](README.md)
+# Algebra
 
-## Algebra basic concepts
+## Basic concepts
 
 - Mappings
 - Group theory

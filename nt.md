@@ -1,6 +1,4 @@
-[back](README.md)
-
-## Number Theory
+# Number Theory
 
 - Pitagorean triplets
 - ...

@@ -1,4 +1,4 @@
-[back](README.md)
+# Computational complexity and automata theory
 
 ## Computational complexity
 
