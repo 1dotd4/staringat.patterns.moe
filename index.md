@@ -1,5 +1,3 @@
-# Staring at patterns [WIP]
-
 Did you know that staring enough on an image you will recognize patters?
 
 This apply to problems too — if correctly represented — and it’s very useful in cryptography too.
