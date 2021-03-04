@@ -1,5 +1,4 @@
-OLD VERSION FOR HTML KEEP FOR LATER
-% <a href="/">Staring at patterns [WIP]</a>
+# Staring at patterns [WIP]
 
 Did you know that staring enough on an image you will recognize patters?
 
@@ -7,13 +6,13 @@ This apply to problems too — if correctly represented — and it’s very usef
 
 This is an experiment, you may find more info in the FAQ.
 
-- [FAQ](/faq.html)
-- Discrete mathematics, combinatorics, graph theory and probability
-- Computational complexity, automata theory
+- [FAQ](faq.md)
+- [Discrete mathematics, combinatorics, graph theory and probability](dm.md)
+- [Computational complexity, automata theory](at.md)
 - Information theory
-- [Number theory](/nt.html)
-- [Algebra](/algebra.html)
-- [Applied cryptography](/cryptography.html)
-- [About machines and languages](/re.html)
-- [Sitemap](/sitemap.html)
+- [Number theory](nt.md)
+- [Algebra](algebra.md)
+- [Applied cryptography](cryptography.md)
+- [About machines and languages](re.md)
+- [Sitemap](sitemap.md)
 
