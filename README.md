@@ -6,13 +6,13 @@ This apply to problems too — if correctly represented — and it’s very usef
 
 This is an experiment, you may find more info in the FAQ.
 
-- [FAQ](blob/master/faq.md)
-- [Discrete mathematics, combinatorics, graph theory and probability](blob/master/dm.md)
-- [Computational complexity, automata theory](blob/master/at.md)
+- [FAQ](faq.md)
+- [Discrete mathematics, combinatorics, graph theory and probability](dm.md)
+- [Computational complexity, automata theory](at.md)
 - Information theory
-- [Number theory](blob/master/nt.md)
-- [Algebra](blob/master/algebra.md)
-- [Applied cryptography](blob/master/cryptography.md)
-- [About machines and languages](blob/master/re.md)
-- [Sitemap](blob/master/sitemap.md)
+- [Number theory](nt.md)
+- [Algebra](algebra.md)
+- [Applied cryptography](cryptography.md)
+- [About machines and languages](re.md)
+- [Sitemap](sitemap.md)
 
