@@ -1,6 +1,6 @@
-% <a href="/">Staring at patterns [WIP]</a>
+[back](README.md)
 
-# Number Theory
+## Number Theory
 
 - Pitagorean triplets
 - ...
@@ -13,9 +13,8 @@
 - Elliptic curves
 - ...
 
-## References
+### References
 
-### Number Theory
 - 9780387745275 - L. N. Childs - _A Concrete Introduction To Higher Algebra_
 - 9780321816191 - J. H. Silverman - _A Friendly Introduction to Number Theory_
 - 9783319902326 - Daniel A. Marcus - _Number fields_

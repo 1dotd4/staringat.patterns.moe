@@ -1,22 +1,26 @@
-% <a href="/">Staring at patterns [WIP]</a>
+[back](README.md)
 
-## Basic concepts
+## Algebra basic concepts
 
-- Sets
-- Monoids
-- Groups
-- Rings
+- Mappings
+- Group theory
+  - Simmetry groups
+  - Abelian groups
+  - Normal subgroups
+  - Cosets
+  - Quotient subgroups
+  - Cayley's theorem
+  - Permutation groups
+- Ring theory
+- Vector Spaces
+- Modules
 - Fields
-- ...
-- Vectors
-- Matrices
-- Eigen-
-- ...
-
+- Linear Transformations
 
 ## References
 
 ### Algebra
+- 9780471010906 - I. N. Herstein - _Topic in Algebra_
 - 9780486471891 - Nathan Jacobson - _Basic Algebra 1_
 - 9780486471877 - Nathan Jacobson - _Basic Algebra 2_
 - 9780387260402 - Claudio Procesi - _Lie Groups_

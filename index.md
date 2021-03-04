@@ -1,3 +1,4 @@
+OLD VERSION FOR HTML KEEP FOR LATER
 % <a href="/">Staring at patterns [WIP]</a>
 
 Did you know that staring enough on an image you will recognize patters?
